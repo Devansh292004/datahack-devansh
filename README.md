@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ```
 
 Create a `.env` file in the project root:
-GROQ_API_KEY=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
+GROQ_API_KEY=YOUR API KEY
 
 Place the 2026 YouTube Trending Kaggle dataset CSVs in `archive/` (not committed — download from Kaggle).
 
